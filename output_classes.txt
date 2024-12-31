@@ -1,0 +1,5 @@
+aircraft carrier
+merchant ship
+submarine
+unknown
+warcraft
